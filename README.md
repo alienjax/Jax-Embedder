@@ -100,4 +100,4 @@ When you click "Embed Artwork" for the first time:
 
 * If you accidentally click "Don't Allow":
   Go to System Settings -> Privacy & Security -> Automation 
-  and turn ON the toggle under "Music Artwork Embedder".
+  and turn ON the toggle under "Jax Embedder".
