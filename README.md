@@ -27,8 +27,10 @@ Because this app is distributed directly without an Apple Developer certificate,
 If you get the message **Jax Embedder Not Opened**, **Apple could not verify “Jax Embedder** is free of malware. Please go to Settings, open **Privacy & Security**, and you'll see a message **Jax Embedder was blocked to protect your Mac**. Click on **Open Anyway**. You'll get a prompt for your password, enter your password and Mac will launch the app.
 
 
+--------------------------------------------------------------------
+  OTHER OPTIONS IF THE METHOD ABOVE DOESN'T WORK
+--------------------------------------------------------------------
 
-**Other options for different OS systems**
 1. **Right-click** (or hold `Control` and click) on the app icon.
 2. Click **Open** from the menu.
 3. Click **Open** again on the security warning prompt. 
