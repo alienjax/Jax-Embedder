@@ -29,7 +29,7 @@ A fast, lightweight, and modern macOS utility designed to extract album cover im
 
 ## 📥 Download & Installation
 
-1. Go to the [Releases](https://github.com/alienjax/Jax-Embedder/releases/tag/v1.0.0) page.
+1. Go to the [Releases](https://github.com/alienjax/Jax-Embedder/releases) page.
 2. Download the latest **`Jax Embedder.zip`** file.
 3. Unzip the file and drag **Jax Embedder.app** into your **Applications** folder.
 
