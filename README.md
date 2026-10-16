@@ -24,7 +24,7 @@ A fast, lightweight, and modern macOS utility designed to extract album cover im
 ### ⚠️ First-Time Launch (Gatekeeper Bypass)
 Because this app is distributed directly without an Apple Developer certificate, macOS will block it on the first launch. 
 
-If you get the message **Jax Embedder Not Opened**, "Apple could not verify Jax Embedder" is free of malware. Please go to Settings, open **Privacy & Security**, and you'll see a message **Jax Embedder was blocked to protect your Mac**. Click on **Open Anyway**. You'll get a prompt for your password, enter your password and Mac will launch the app.
+If you get the message **Jax Embedder Not Opened**, "Apple could not verify Jax Embedder is free of malware". Please go to Settings, open **Privacy & Security**, and you'll see a message **Jax Embedder was blocked to protect your Mac**. Click on **Open Anyway**. You'll get a prompt for your password, enter your password and Mac will launch the app.
 
 
 --------------------------------------------------------------------
