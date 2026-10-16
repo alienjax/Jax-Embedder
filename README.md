@@ -2,7 +2,7 @@
 
 A fast, lightweight, and modern macOS utility designed to extract album cover images from the Apple Music database and embed them directly into your audio files for safekeeping.
 
-![App Preview](https://github.com/YOUR-USERNAME/music-artwork-embedder/raw/main/preview.png) *(Optional: add a screenshot link here if you have one)*
+![App Preview]([https://github.com/YOUR-USERNAME/music-artwork-embedder/raw/main/preview.png](https://raw.githubusercontent.com/alienjax/Jax-Embedder/refs/heads/main/Screenshot.png)) *(Optional: add a screenshot link here if you have one)*
 
 ---
 
