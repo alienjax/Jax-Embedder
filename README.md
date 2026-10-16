@@ -69,17 +69,17 @@ it in seconds using Terminal:
 
    xattr -d com.apple.quarantine 
 
-3. Drag "Music Artwork Embedder.app" from Finder directly into the 
+3. Drag "Jax Embedder.app" from Finder directly into the 
    Terminal window to auto-fill its exact path.
 
    (It will look something like this:
-    xattr -d com.apple.quarantine /Applications/Music\ Artwork\ Embedder.app)
+    xattr -d com.apple.quarantine /Applications/Jax\ Embedder.app)
 
 4. Press Enter and open the app!
 
 
 --------------------------------------------------------------------
-METHOD 3: GRANTING APPLE MUSIC PERMISSIONS
+IMPORTANT: GRANTING APPLE MUSIC PERMISSIONS
 --------------------------------------------------------------------
 When you click "Embed Artwork" for the first time:
 
