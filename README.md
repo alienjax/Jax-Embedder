@@ -17,9 +17,9 @@ A fast, lightweight, and modern macOS utility designed to extract album cover im
 
 ## 📥 Download & Installation
 
-1. Go to the [Releases](https://github.com/YOUR-USERNAME/music-artwork-embedder/releases) page.
-2. Download the latest **`Music-Artwork-Embedder.zip`** file.
-3. Unzip the file and drag **Music Artwork Embedder.app** into your **Applications** folder.
+1. Go to the [Releases](https://github.com/alienjax/Jax-Embedder/releases/tag/v1.0.0) page.
+2. Download the latest **`Jax Embedder.zip`** file.
+3. Unzip the file and drag **Jax Embedder.app** into your **Applications** folder.
 
 ### ⚠️ First-Time Launch (Gatekeeper Bypass)
 Because this app is distributed directly without an Apple Developer certificate, macOS will block it on the first launch. 
