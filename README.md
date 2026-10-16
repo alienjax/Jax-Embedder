@@ -2,6 +2,7 @@
 
 A fast, lightweight, and modern macOS utility designed to extract album cover images from the Apple Music database and embed them directly into your audio files for safekeeping.
 
+
 ![App Screenshot](https://github.com/alienjax/Jax-Embedder/blob/main/Screenshot.png)
 
 ---
