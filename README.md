@@ -1,6 +1,6 @@
 # Jax Embedder for macOS
 
-A fast, lightweight, and modern macOS utility designed to extract album cover images from the Apple Music database and embed them directly into your audio files for safekeeping. Trial version is limited to process eight tracks at a time.
+A fast, lightweight, and modern macOS utility designed to extract album cover images from the Apple Music database and embed them directly into your audio files for safekeeping. Free version is limited to process eight tracks at a time.
 
 
 
