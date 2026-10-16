@@ -11,7 +11,7 @@ A fast, lightweight, and modern macOS utility designed to extract album cover im
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alienjax/Jax-Embedder/main/Screenshot2.jpg" width="500" alt="App Screenshot">
+  <img src="https://github.com/alienjax/Jax-Embedder/blob/main/ss.png" width="500" alt="App Screenshot">
 </p>
 
 
