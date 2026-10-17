@@ -12,7 +12,7 @@ A fast, lightweight, and modern macOS utility designed to extract album cover im
 
 ## Features
 * **Lightning Fast:** Batches AppleScript commands locally to process tracks instantly.
-* **Modern & Seamless:** macOS Translucent, borderless window with smooth state animations.
+* **Modern & Seamless:** Modern macOS style Translucent, borderless window with smooth state animations.
 * **Smart Placeholders:** Automatically falls back to custom art if a track has no embedded cover.
 * **Audible Feedback:** Plays a custom chime sound upon completion.
 
