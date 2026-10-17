@@ -1,37 +1,42 @@
+
 # Security Policy
 
-MIT License
-
-Copyright (c) [2026] [Jax Embedder]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+We take the security and privacy of our proprietary software very seriously. 
+If you believe you have found a security vulnerability, we appreciate your 
+help in disclosing it to us responsibly.
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 1.1.x   | :white_check_mark: |
+Only the latest official release of the application is supported with security 
+updates. We do not backport security patches to legacy versions unless 
+explicitly stated otherwise.
 
 ## Reporting a Vulnerability
 
-Submit concerns under Issues.
-Vulnerability concerns will be dealt with promptly
+**Please DO NOT open a public GitHub Issue or Pull Request for security 
+vulnerabilities.** Publicly disclosing a flaw in proprietary software can 
+expose our users and infrastructure to active threats.
+
+Instead, please report security issues via the following private channel:
+
+* **Email:** jax.embedder@gmail.com
+* **Expected Response Window:** We acknowledge receipt of all legitimate 
+  vulnerability reports within **48 hours**.
+
+### Please Include:
+To help us triage and resolve the issue quickly, please provide:
+1. A clear description of the vulnerability and its potential impact.
+2. Step-by-step instructions to reproduce the issue (including 
+   proof-of-concept scripts or requests).
+3. The specific application version or environment affected.
+
+## Coordinated Disclosure Policy
+
+This software is proprietary. We ask that you follow Coordinated Vulnerability 
+Disclosure (CVD) guidelines. 
+* Please allow us a reasonable timeframe to analyze, validate, and patch the 
+  issue before making any public statements or disclosures.
+* Reverse-engineering or attacking our hosted infrastructure outside of an 
+  authorized bug-bounty scope is strictly prohibited.
+
+Thank you for helping keep our software secure!
