@@ -5,7 +5,7 @@
 A fast, lightweight, and modern macOS utility designed to extract album cover images for multiple tracks from the Apple Music database and embed them directly into your audio files for safekeeping. Free version is limited to process eight tracks at a time.
 
 <p align="center">
-  <img src="https://github.com/alienjax/Jax-Embedder/blob/main/Screenshot_v1.1.3.png" width="1000" alt="App Screenshot">
+  <img src="https://github.com/alienjax/Jax-Embedder/blob/main/Screenshot.png" width="1000" alt="App Screenshot">
 </p>
 
 ---
