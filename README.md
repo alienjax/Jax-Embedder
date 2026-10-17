@@ -2,7 +2,7 @@
 
 ## Features
 
-A fast, lightweight, and modern macOS utility designed to extract album cover images from the Apple Music database and embed them directly into your audio files for safekeeping. Free version is limited to process eight tracks at a time.
+A fast, lightweight, and modern macOS utility designed to extract album cover images for multiple tracks from the Apple Music database and embed them directly into your audio files for safekeeping. Free version is limited to process eight tracks at a time.
 
 
 <p align="center">
@@ -13,7 +13,7 @@ A fast, lightweight, and modern macOS utility designed to extract album cover im
 
 ## Features
 * **Lightning Fast:** Batches AppleScript commands locally to process tracks instantly.
-* **Modern & Seamless:** Translucent, borderless window with smooth state animations.
+* **Modern & Seamless:** macOS Translucent, borderless window with smooth state animations.
 * **Smart Placeholders:** Automatically falls back to custom art if a track has no embedded cover.
 * **Audible Feedback:** Plays a custom chime sound upon completion.
 
