@@ -46,7 +46,7 @@ If macOS tagged the file with a download "quarantine" flag, you can clear
 it in seconds using Terminal:
 
 1. Open Terminal (Press Command + Space, type "Terminal", hit Enter).
-2. Type the following command followed by a space:
+2. 2. Type the following command followed by a space:
 
    xattr -d com.apple.quarantine 
 
