@@ -12,9 +12,10 @@ A fast, lightweight, and modern macOS utility designed to extract album cover im
 
 ## Features
 * **Lightning Fast:** Batches AppleScript commands locally to process tracks instantly.
+* **Batch Download Artwork** *
+"Download to File" option will download all selected files' artwork to a folder. Format can be PNG, or JPEG, and quality can be chosen in settings. 
 * **Modern & Seamless:** Modern macOS style Translucent, borderless window with smooth state animations.
 * **Smart Placeholders:** Automatically falls back to custom art if a track has no embedded cover.
-* **Audible Feedback:** Audibly notifies with a chime sound upon completion.
 
 ---
 
