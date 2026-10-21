@@ -18,7 +18,7 @@ A fast, lightweight, and modern macOS utility designed to extract album cover im
 
 ---
 
-## 📥 Download & Installation
+## Download & Installation
 
 1. Go to the [Releases](https://github.com/alienjax/Jax-Embedder/releases) page.
 2. Download the latest **`Jax Embedder.zip`** file.
@@ -31,7 +31,7 @@ If you get messages such as **Jax Embedder Not Opened**, "Apple could not verify
 
 
 --------------------------------------------------------------------
-  OTHER OPTIONS IF THE METHOD ABOVE DOESN'T WORK
+Other Options If Method Above Doesn't Work
 --------------------------------------------------------------------
 
 For earlier macOS versions:
@@ -41,7 +41,7 @@ For earlier macOS versions:
 *(You only need to do this once!)*
 
 --------------------------------------------------------------------
-METHOD 2: IF MACOS SAYS "APP IS DAMAGED AND CAN'T BE OPENED"
+If macOS Says "App Is Damaged And can't Be Opened"
 --------------------------------------------------------------------
 If macOS tagged the file with a download "quarantine" flag, you can clear 
 it in seconds using Terminal:
@@ -60,7 +60,7 @@ it in seconds using Terminal:
 4. Press Enter and open the app!
 
 --------------------------------------------------------------------
-IMPORTANT: GRANTING APPLE MUSIC PERMISSIONS
+IMPORTANT: Granting Apple Music Permissions
 --------------------------------------------------------------------
 When you click "Embed Artwork" for the first time:
 
