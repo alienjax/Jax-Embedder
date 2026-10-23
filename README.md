@@ -60,12 +60,12 @@ it in seconds using Terminal:
 --------------------------------------------------------------------
 IMPORTANT: Granting Apple Music Permissions
 --------------------------------------------------------------------
-When you click "Embed Artwork" for the first time:
+When you click **Embed Artwork** for the first time:
 
-1. macOS will show a prompt asking for permission to control "Music.app".
-2. Click "OK" or "Allow".
+1. macOS will show a prompt asking for permission to control **Music.app**.
+2. Click **OK** or **Allow**.
 
-* If you accidentally click "Don't Allow":
+* If you accidentally click **Don't Allow**:
   Go to System Settings -> Privacy & Security -> Automation 
-  and turn ON the toggle under "Jax Embedder".
+  and turn ON the toggle under **Jax Embedder**.
 
