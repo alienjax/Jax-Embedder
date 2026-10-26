@@ -12,6 +12,7 @@ A fast, lightweight, and modern macOS utility designed to extract album cover im
 * **Lightning Fast:** Batches AppleScript commands locally to process tracks instantly.
 * **Batch Download Artwork** "Download to File" option will download all selected files' artwork to a folder. Format can be PNG, or JPEG, and quality can be chosen in settings.
 * **Scan Your Entire Library for Missing Art** Choose art from Apple Music library and embed in albums.
+* **Smart Row of Icons** Now alert you for non-square album covers, Low resolution images, Apple Music artwork mismatch, album artist not matching artist, whether track is downloaded and low bitrate music.
 * **Modern & Seamless:** Modern macOS style Translucent, borderless window with smooth state animations.
 * **Smart Placeholders:** Automatically falls back to custom art if a track has no embedded cover.
 
